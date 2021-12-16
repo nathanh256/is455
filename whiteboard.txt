@@ -1,0 +1,13 @@
+likes
+retweets
+reply
+quoted
+
+
+
+scorePerTweet = (.5* (likes) + 3*(retweets) + 1*(reply) + 4*(quoted)) / numFollowers
+
+avg(scorePerTweet)
+
+-Exclude replies
+- alot of replies?
