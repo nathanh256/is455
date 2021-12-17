@@ -1,107 +1,143 @@
-,following_count,tweet_count,followers_count,listed_count,username,name,id,verified,protected,created_at,description,hasPinnedTweet,urlsInDescription,hashtagsInDescription,userWebsitesAdded,cashtagsInDescription,mentionsInDescription
-0,18744,64200,19593,255,Schlotzskys,Schlotzsky's,18464555,True,False,2008-12-30T00:38:15.000Z,Original. Bold. Authentic. Unapologetic...since 1971,False,0,0,1,0,0
-1,32224,88519,65011,724,AuntieAnnes,Auntie Anne's,35737873,True,False,2009-04-27T13:15:55.000Z,Merry Snackmas 🥨🎄,False,0,0,1,0,0
-2,560,6979,3548,56,SaltgrassSteak,Saltgrass Steakhouse,155609754,False,False,2010-06-14T16:25:19.000Z,"You don't have to be from Texas to like us, but you do have to appreciate a darn fine steak.",False,0,0,1,0,0
-3,326,45996,336588,1098,redlobster,Red Lobster,6018732,True,False,2007-05-14T00:19:37.000Z,"Our tweets are like our seafood, fresh! #RedLobster",False,0,1,1,0,0
-4,2800,16402,74489,671,Hardees,Hardee’s,16101657,True,False,2008-09-02T19:35:31.000Z,Got biscuits on my mind,False,0,0,0,0,0
-5,366,3947,7395,96,RuthsChris,Ruth's Chris,705528727,True,False,2012-07-19T18:14:06.000Z,"Ruth’s legacy lives on through our sizzling steaks, award-winning wine list of 200+ wines & signature handcrafted cocktails. #RuthsChris",False,0,1,1,0,0
-6,3281,51878,89328,271,LongHornSteaks,LongHorn Steakhouse,2496915103,True,False,2014-05-15T18:31:50.000Z,You don't need a reason to eat steak. Just a place that gets it right.,False,0,0,1,0,0
-7,393,42244,91899,1305,FiveGuys,Five Guys,18194079,True,False,2008-12-17T17:33:31.000Z,Five Guys Burgers and Fries (and tweets!) Order online with the Five Guys app and choose pick up or delivery! https://t.co/ZiGReULsjj,False,1,0,1,0,0
-8,210,705183,599576,2791,Applebees,Applebee's Grill + Bar,74452613,True,False,2009-09-15T13:54:34.000Z,Welcome to the neighborhood. We'll save you a booth.,False,0,0,1,0,0
-9,3924,24793,34511,413,DelTaco,Del Taco Restaurants,89840669,True,False,2009-11-14T01:23:29.000Z,Tweets From Official Del Taco,False,0,0,1,0,0
-10,9072,29069,88480,1391,PFChangs,P.F. Chang's,17547594,True,False,2008-11-21T22:32:45.000Z,"At P.F. Chang's, we're changing how the culinary spirit of Asia is brought to the world",False,0,0,1,0,0
-11,1242,9900,27028,492,BonefishGrill,Bonefish Grill,36066092,True,False,2009-04-28T13:38:40.000Z,Get hooked on new seasonal specials that will keep you craving more ⬇️,False,0,0,1,0,0
-12,156,7904,7001,121,Charleys,Charleys Cheesesteaks,15727983,False,False,2008-08-04T21:14:25.000Z,"Cheesesteaks, fries, lemonade. Quenching your cravings since 1986.",False,0,0,1,0,0
-13,177,8159,9876,176,EinsteinBros,Einstein Bros.,59834052,True,False,2009-07-24T17:10:18.000Z,"Official Twitter for Einstein Bros. Bagels - The friendly, neighborhood gathering place for good conversation and fresh-baked bagels.",False,0,0,1,0,0
-14,6639,65032,49561,745,qdoba,QDOBA,19622973,True,False,2009-01-27T23:00:49.000Z,It's pronounced cue-dough-bah.,False,0,0,1,0,0
-15,4407,76038,61415,1056,torchystacos,Torchy's Tacos,22808670,True,False,2009-03-04T18:06:19.000Z,"Damn Good Tacos is not a tagline. It is a warning. Addictions are not cheap. Get your taco fix for dine-in, pickup, or delivery 🌮",False,0,0,1,0,0
-16,3,17531,80512,448,raisingcanes,Raising Cane's,28172701,True,False,2009-04-01T19:22:50.000Z,Our ONE LOVE® is quality Chicken Finger meals,False,0,0,0,0,0
-17,13342,38822,354506,1914,Cheesecake,The Cheesecake Factory 🍰,32152579,True,False,2009-04-16T21:05:57.000Z,Saving the characters for our menu.,False,0,0,1,0,0
-18,4987,58407,115856,756,WaffleHouse,Waffle House,22933669,True,False,2009-03-05T15:45:44.000Z,Serving Good Food Fast® since 1955,True,0,0,1,0,0
-19,1191,27249,27810,201,CheckersRallys,Checkers and Rally's,114507384,True,False,2010-02-15T17:07:11.000Z,"Our fries are better than yours. Yeah, we said, what we said.",False,0,0,1,0,0
-20,1272,21080,20477,198,SmoothieKing,Smoothie King,14263661,True,False,2008-03-31T04:56:14.000Z,"Smoothies masterfully crafted to help you achieve your health and fitness goals, and #RuleTheDay.  https://t.co/mY2ZWjBnRU",True,1,1,1,0,0
-21,5,3422,7848,119,CaptainDs,Captain D's,24778436,False,False,2009-03-16T21:55:03.000Z,Great seafood since 1969 with over 500 locations across the USA. IG: captaindsseafood -- Tweet what you eat @CaptainDs,False,0,0,1,0,1
-22,3154,50959,96011,701,WhiteCastle,WhiteCastleOfficial.eth,115704886,True,False,2010-02-19T16:31:34.000Z,Home of the Original Slider since 1921 WhiteCastleOfficial.eth,True,0,0,1,0,0
-23,2038,13715,12008,131,papamurphys,Papa Murphy's,46714602,True,False,2009-06-12T18:31:18.000Z,Fresh always comes first. That’s what Take 'n' Bake is all about. We make pizza fresh daily to bake on your own time.🍕Try us at https://t.co/Er4023cp5P,False,1,0,1,0,0
-24,486,8570,7597,96,caferio,Cafe Rio Mexican Grill,118532358,True,False,2010-03-01T00:14:41.000Z,"Home of the Original Sweet Pork Barbacoa. 😋 
+handle,following_count,tweet_count,followers_count,listed_count,name,id,verified,protected,created_at,description,hasPinnedTweet,urlsInDescription,hashtagsInDescription,userWebsitesAdded,cashtagsInDescription,mentionsInDescription
+Schlotzskys,18747,64207,19597,254,Schlotzsky's,18464555,True,False,2008-12-30T00:38:15.000Z,Original. Bold. Authentic. Unapologetic...since 1971,False,0,0,1,0,0
+AuntieAnnes,32221,88526,65027,724,Auntie Anne's,35737873,True,False,2009-04-27T13:15:55.000Z,Merry Snackmas 🥨🎄,False,0,0,1,0,0
+SaltgrassSteak,560,6980,3548,56,Saltgrass Steakhouse,155609754,False,False,2010-06-14T16:25:19.000Z,"You don't have to be from Texas to like us, but you do have to appreciate a darn fine steak.",False,0,0,1,0,0
+redlobster,326,45999,336602,1099,Red Lobster,6018732,True,False,2007-05-14T00:19:37.000Z,"Our tweets are like our seafood, fresh! #RedLobster",False,0,1,1,0,0
+Hardees,2800,16402,74500,671,Hardee’s,16101657,True,False,2008-09-02T19:35:31.000Z,Got biscuits on my mind,False,0,0,0,0,0
+RuthsChris,366,3949,7396,96,Ruth's Chris,705528727,True,False,2012-07-19T18:14:06.000Z,"Ruth’s legacy lives on through our sizzling steaks, award-winning wine list of 200+ wines & signature handcrafted cocktails. #RuthsChris",False,0,1,1,0,0
+LongHornSteaks,3282,51894,89328,272,LongHorn Steakhouse,2496915103,True,False,2014-05-15T18:31:50.000Z,You don't need a reason to eat steak. Just a place that gets it right.,False,0,0,1,0,0
+FiveGuys,396,42249,91898,1304,Five Guys,18194079,True,False,2008-12-17T17:33:31.000Z,Five Guys Burgers and Fries (and tweets!) Order online with the Five Guys app and choose pick up or delivery! https://t.co/ZiGReULsjj,False,1,0,1,0,0
+Applebees,210,705189,599611,2789,Applebee's Grill + Bar,74452613,True,False,2009-09-15T13:54:34.000Z,Welcome to the neighborhood. We'll save you a booth.,False,0,0,1,0,0
+DelTaco,3924,24793,34510,413,Del Taco Restaurants,89840669,True,False,2009-11-14T01:23:29.000Z,Tweets From Official Del Taco,False,0,0,1,0,0
+PFChangs,9072,29070,88486,1391,P.F. Chang's,17547594,True,False,2008-11-21T22:32:45.000Z,"At P.F. Chang's, we're changing how the culinary spirit of Asia is brought to the world",False,0,0,1,0,0
+BonefishGrill,1242,9901,27027,492,Bonefish Grill,36066092,True,False,2009-04-28T13:38:40.000Z,Get hooked on new seasonal specials that will keep you craving more ⬇️,False,0,0,1,0,0
+Charleys,156,7911,7000,121,Charleys Cheesesteaks,15727983,False,False,2008-08-04T21:14:25.000Z,"Cheesesteaks, fries, lemonade. Quenching your cravings since 1986.",False,0,0,1,0,0
+EinsteinBros,177,8163,9875,176,Einstein Bros.,59834052,True,False,2009-07-24T17:10:18.000Z,"Official Twitter for Einstein Bros. Bagels - The friendly, neighborhood gathering place for good conversation and fresh-baked bagels.",False,0,0,1,0,0
+qdoba,6639,65045,49564,745,QDOBA,19622973,True,False,2009-01-27T23:00:49.000Z,It's pronounced cue-dough-bah.,False,0,0,1,0,0
+torchystacos,4410,76039,61419,1056,Torchy's Tacos,22808670,True,False,2009-03-04T18:06:19.000Z,"Damn Good Tacos is not a tagline. It is a warning. Addictions are not cheap. Get your taco fix for dine-in, pickup, or delivery 🌮",False,0,0,1,0,0
+raisingcanes,3,17536,80537,448,Raising Cane's,28172701,True,False,2009-04-01T19:22:50.000Z,Our ONE LOVE® is quality Chicken Finger meals,False,0,0,0,0,0
+Cheesecake,13342,38822,354527,1915,The Cheesecake Factory 🍰,32152579,True,False,2009-04-16T21:05:57.000Z,Saving the characters for our menu.,False,0,0,1,0,0
+WaffleHouse,4986,58413,115859,757,Waffle House,22933669,True,False,2009-03-05T15:45:44.000Z,Serving Good Food Fast® since 1955,True,0,0,1,0,0
+CheckersRallys,1193,27253,27812,201,Checkers and Rally's,114507384,True,False,2010-02-15T17:07:11.000Z,"Our fries are better than yours. Yeah, we said, what we said.",False,0,0,1,0,0
+SmoothieKing,1272,21091,20474,198,Smoothie King,14263661,True,False,2008-03-31T04:56:14.000Z,"Smoothies masterfully crafted to help you achieve your health and fitness goals, and #RuleTheDay.  https://t.co/mY2ZWjBnRU",True,1,1,1,0,0
+CaptainDs,5,3422,7847,119,Captain D's,24778436,False,False,2009-03-16T21:55:03.000Z,Great seafood since 1969 with over 500 locations across the USA. IG: captaindsseafood -- Tweet what you eat @CaptainDs,False,0,0,1,0,1
+WhiteCastle,3156,50968,96147,703,WhiteCastleOfficial.eth,115704886,True,False,2010-02-19T16:31:34.000Z,Home of the Original Slider since 1921 WhiteCastleOfficial.eth,True,0,0,1,0,0
+papamurphys,2038,13715,12009,131,Papa Murphy's,46714602,True,False,2009-06-12T18:31:18.000Z,Fresh always comes first. That’s what Take 'n' Bake is all about. We make pizza fresh daily to bake on your own time.🍕Try us at https://t.co/Er4023cp5P,False,1,0,1,0,0
+caferio,485,8570,7597,96,Cafe Rio Mexican Grill,118532358,True,False,2010-03-01T00:14:41.000Z,"Home of the Original Sweet Pork Barbacoa. 😋 
 Need help? Send us a DM @CafeRioCare",True,0,0,1,0,1
-25,188,6016,11677,243,ChuysRestaurant,Chuy's,58678337,True,False,2009-07-21T02:39:03.000Z,"Committed to serving up fine Tex-Mex made from scratch in every single one of our restaurants -- and of course, having a good time while we do it.",False,0,0,1,0,0
-26,103,16111,92709,490,ChurchsChicken,Church's Chicken,19610482,True,False,2009-01-27T19:33:05.000Z,On a strict diet of fried chicken and juicy tweets,False,0,0,1,0,0
-27,0,155784,350517,929,IHOP,IHOP,475199073,True,False,2012-01-26T20:03:48.000Z,Make any home a house of pancakes. Order on https://t.co/na7o8tvGJO for 20% off your first order. See site for details.,False,1,0,1,0,0
-28,8865,9768,191929,1411,BaskinRobbins,Baskin-Robbins,14601237,True,False,2008-04-30T15:13:26.000Z,"Ice cream in more flavors than you can imagine? Yes, Please.",False,0,0,1,0,0
-29,41,24172,18355,232,TSmoothieCafe,Tropical Smoothie Cafe,50392512,True,False,2009-06-24T18:39:06.000Z,Getaways are not a once-a-year-thing; they’re an everyday thing. That’s why we blend a little sunshine into everything we do. #TropicTime,False,0,1,1,0,0
-30,227,10613,33955,202,MODPizza,MOD Pizza,109127035,True,False,2010-01-28T01:55:48.000Z,The original superfast pizza experience. All Pizzas Welcome ❤️🍕,False,0,0,1,0,0
-31,12,25844,33987,822,calpizzakitchen,calpizzakitchen,19370018,True,False,2009-01-22T23:41:31.000Z,Order Now 👇💛🌴,True,0,0,1,0,0
-32,2366,14131,11746,117,FreddysUSA,Freddy's Frozen Custard & Steakburgers,250820810,True,False,2011-02-11T21:44:41.000Z,Freshly-churned frozen custard & cooked-to-order steakburgers make Freddy’s the Taste that Brings You Back! Share your Freddy's memories with us! #ilovefreddys,False,0,1,1,0,0
-33,82,18241,407584,524,SteaknShake,Steak 'n Shake,567562934,True,False,2012-04-30T21:20:23.000Z,Here for you since 1934.,False,0,0,1,0,0
-34,23,29049,17892,234,tacojohns,tacojohns,14514841,True,False,2008-04-24T17:31:54.000Z,Bigger. Bolder. Better.,False,0,0,1,0,0
-35,714,11052,9025,199,Dickeys,Dickeys Barbecue Pit,111445215,False,False,2010-02-04T23:30:30.000Z,Slow-smoked tweets focusing on Legit. Texas. Barbecue.™ https://t.co/WPS88VFnLw,False,1,0,1,0,0
-36,14890,53180,357462,1491,krispykreme,Krispy Kreme,17944853,True,False,2008-12-07T18:16:47.000Z,@KrispyKreme The home of the Original Glazed Doughnut.,False,0,0,1,0,1
-37,4529,16634,23426,490,ElPolloLoco,El Pollo Loco,26286427,True,False,2009-03-24T18:04:40.000Z,Proudly serving our famous fire-grilled chicken & Mexican entrées.,True,0,0,1,0,0
-38,22135,18738,65311,590,ColdStone,Cold Stone Creamery,55416850,True,False,2009-07-10T00:41:53.000Z,Sweet tweets made fresh daily...just like our Ice Cream! What's your #ColdStoneStyle?,False,0,1,0,0,0
-39,184884,192010,1264260,1135,Whataburger,Whataburger®,353060311,True,False,2011-08-11T13:58:37.000Z,There's pride in every Whataburger. #ProudToServeYou,False,0,1,1,0,0
-40,2879,74193,142204,830,Hooters,Hootie,16012601,True,False,2008-08-27T15:09:09.000Z,Just an owl on the internet. Use code JOLLY10 for $10 off $50+ orders on the Hooters app or https://t.co/EsaVH7ISJl,False,1,0,0,0,0
-41,13350,37941,34808,1081,Maggianos,Maggiano's Little Italy,22171728,True,False,2009-02-27T18:37:01.000Z,Classic Italian American cuisine ⭐️ Born in Chicago 🍝 Now celebrating everyday in 53 locations 🥂,False,0,0,1,0,0
-42,20,4654,7204,117,hungryhowies,Hungry Howie's Pizza,69651987,False,False,2009-08-28T18:00:55.000Z,Est. 1973! Home of the Original Flavored Crust Pizza. FLORIDA COMMENTS GO TO @HUNGRYHOWIESFL,False,0,0,1,0,1
-43,1962,66701,54110,429,noodlescompany,Noodles & Company,155642426,True,False,2010-06-14T18:11:30.000Z,Come be the Mac to our Cheese 🧀 both on Twitter 🥳 and as part of our team 👏,False,0,0,1,0,0
-44,4504,12200,23055,342,Carrabbas,Carrabba's,17887763,True,False,2008-12-05T02:43:52.000Z,Italian worth talking about.,False,0,0,1,0,0
-45,866,61972,96842,1043,shakeshack,SHAKE SHACK,212255045,True,False,2010-11-05T15:31:33.000Z,Our new Black Truffle Burger is here. Order ahead on the Shack App! 📲,False,0,0,1,0,0
-46,609,346402,448244,1781,jimmyjohns,Jimmy John's,21952592,True,False,2009-02-26T01:33:11.000Z,THE SANDWICH OF SANDWICHES℠,False,0,0,1,0,0
-47,455,5805,25651,128,portilloshotdog,Portillo's,3032939902,True,False,2015-02-12T15:32:36.000Z,"Official account of Portillo's Hot Dogs. Home to America's favorite Chicago-style hot dogs, Italian beef, salads, and chocolate cake. 🌭🍟",False,0,0,1,0,0
-48,3648,41448,52331,681,culvers,Culver's Restaurants,18061783,True,False,2008-12-11T21:59:44.000Z,Welcome to Delicious,False,0,0,1,0,0
-49,1,59472,184187,1216,redrobinburgers,Red Robin,20514552,True,False,2009-02-10T13:59:55.000Z,Official home of insanely delicious Gourmet Burgers & Brews. We’re OPEN for To-Go and delivery orders at participating locations.,False,0,0,1,0,0
-50,33,15769,29142,307,goldencorral,Golden Corral,19987334,True,False,2009-02-03T17:35:37.000Z,Golden Corral® is committed to making pleasurable dining affordable for each & every guest. #TheOnlyOneForEveryone For career opportunities: @goldencorraljob,False,0,1,1,0,1
-51,2358,4893,5440,31,eatatjacks,Jack's,71357861,True,False,2009-09-03T21:00:02.000Z,Southern fried tweets—just like you like ‘em. #AllAboutTheSouth,False,0,1,1,0,0
-52,24978,103160,43278,374,McAlistersDeli,McAlister's Deli,22970145,True,False,2009-03-05T20:08:41.000Z,Great food brings us together. 📸: Share your #McAlisters moments with us!,False,0,1,1,0,0
-53,0,15737,22298,213,rubytuesday,Ruby Tuesday,44528896,True,False,2009-06-04T02:54:16.000Z,"BIG, BETTER, BOLDER, baby! We’re celebrating 50 years in a BIG way! Check it out https://t.co/mgkusYo1QH! 🥳
+ChuysRestaurant,188,6017,11679,243,Chuy's,58678337,True,False,2009-07-21T02:39:03.000Z,"Committed to serving up fine Tex-Mex made from scratch in every single one of our restaurants -- and of course, having a good time while we do it.",False,0,0,1,0,0
+ChurchsChicken,103,16115,92720,490,Church's Chicken,19610482,True,False,2009-01-27T19:33:05.000Z,On a strict diet of fried chicken and juicy tweets,False,0,0,1,0,0
+IHOP,0,155786,350514,930,IHOP,475199073,True,False,2012-01-26T20:03:48.000Z,Make any home a house of pancakes. Order on https://t.co/na7o8tvGJO for 20% off your first order. See site for details.,False,1,0,1,0,0
+BaskinRobbins,8866,9769,191950,1411,Baskin-Robbins,14601237,True,False,2008-04-30T15:13:26.000Z,"Ice cream in more flavors than you can imagine? Yes, Please.",False,0,0,1,0,0
+TSmoothieCafe,41,24174,18354,232,Tropical Smoothie Cafe,50392512,True,False,2009-06-24T18:39:06.000Z,Getaways are not a once-a-year-thing; they’re an everyday thing. That’s why we blend a little sunshine into everything we do. #TropicTime,False,0,1,1,0,0
+MODPizza,227,10613,33959,202,MOD Pizza,109127035,True,False,2010-01-28T01:55:48.000Z,The original superfast pizza experience. All Pizzas Welcome ❤️🍕,False,0,0,1,0,0
+calpizzakitchen,12,25851,33986,821,calpizzakitchen,19370018,True,False,2009-01-22T23:41:31.000Z,Order Now 👇💛🌴,True,0,0,1,0,0
+FreddysUSA,2367,14135,11745,117,Freddy's Frozen Custard & Steakburgers,250820810,True,False,2011-02-11T21:44:41.000Z,Freshly-churned frozen custard & cooked-to-order steakburgers make Freddy’s the Taste that Brings You Back! Share your Freddy's memories with us! #ilovefreddys,False,0,1,1,0,0
+SteaknShake,82,18241,407572,524,Steak 'n Shake,567562934,True,False,2012-04-30T21:20:23.000Z,Here for you since 1934.,False,0,0,1,0,0
+tacojohns,23,29049,17889,234,tacojohns,14514841,True,False,2008-04-24T17:31:54.000Z,Bigger. Bolder. Better.,False,0,0,1,0,0
+Dickeys,713,11053,9022,198,Dickeys Barbecue Pit,111445215,False,False,2010-02-04T23:30:30.000Z,Slow-smoked tweets focusing on Legit. Texas. Barbecue.™ https://t.co/WPS88VFnLw,False,1,0,1,0,0
+krispykreme,14888,53194,357488,1491,Krispy Kreme,17944853,True,False,2008-12-07T18:16:47.000Z,@KrispyKreme The home of the Original Glazed Doughnut.,False,0,0,1,0,1
+ElPolloLoco,4529,16637,23427,490,El Pollo Loco,26286427,True,False,2009-03-24T18:04:40.000Z,Proudly serving our famous fire-grilled chicken & Mexican entrées.,True,0,0,1,0,0
+ColdStone,22132,18741,65309,589,Cold Stone Creamery,55416850,True,False,2009-07-10T00:41:53.000Z,Sweet tweets made fresh daily...just like our Ice Cream! What's your #ColdStoneStyle?,False,0,1,0,0,0
+Whataburger,184870,192015,1264251,1135,Whataburger®,353060311,True,False,2011-08-11T13:58:37.000Z,There's pride in every Whataburger. #ProudToServeYou,False,0,1,1,0,0
+Hooters,2881,74206,142204,829,Hootie,16012601,True,False,2008-08-27T15:09:09.000Z,Just an owl on the internet. Use code JOLLY10 for $10 off $50+ orders on the Hooters app or https://t.co/EsaVH7ISJl,False,1,0,0,0,0
+Maggianos,13349,37943,34809,1080,Maggiano's Little Italy,22171728,True,False,2009-02-27T18:37:01.000Z,Classic Italian American cuisine ⭐️ Born in Chicago 🍝 Now celebrating everyday in 53 locations 🥂,False,0,0,1,0,0
+hungryhowies,20,4658,7206,117,Hungry Howie's Pizza,69651987,False,False,2009-08-28T18:00:55.000Z,Est. 1973! Home of the Original Flavored Crust Pizza. FLORIDA COMMENTS GO TO @HUNGRYHOWIESFL,False,0,0,1,0,1
+noodlescompany,1962,66701,54107,429,Noodles & Company,155642426,True,False,2010-06-14T18:11:30.000Z,Come be the Mac to our Cheese 🧀 both on Twitter 🥳 and as part of our team 👏,False,0,0,1,0,0
+Carrabbas,4504,12200,23055,342,Carrabba's,17887763,True,False,2008-12-05T02:43:52.000Z,Italian worth talking about.,False,0,0,1,0,0
+shakeshack,866,61983,96853,1042,SHAKE SHACK,212255045,True,False,2010-11-05T15:31:33.000Z,Our new Black Truffle Burger is here. Order ahead on the Shack App! 📲,False,0,0,1,0,0
+jimmyjohns,609,346419,448249,1781,Jimmy John's,21952592,True,False,2009-02-26T01:33:11.000Z,THE SANDWICH OF SANDWICHES℠,False,0,0,1,0,0
+portilloshotdog,455,5807,25650,129,Portillo's,3032939902,True,False,2015-02-12T15:32:36.000Z,"Official account of Portillo's Hot Dogs. Home to America's favorite Chicago-style hot dogs, Italian beef, salads, and chocolate cake. 🌭🍟",False,0,0,1,0,0
+culvers,3646,41450,52336,681,Culver's Restaurants,18061783,True,False,2008-12-11T21:59:44.000Z,Welcome to Delicious,False,0,0,1,0,0
+redrobinburgers,1,59472,184196,1216,Red Robin,20514552,True,False,2009-02-10T13:59:55.000Z,Official home of insanely delicious Gourmet Burgers & Brews. We’re OPEN for To-Go and delivery orders at participating locations.,False,0,0,1,0,0
+goldencorral,33,15770,29143,307,Golden Corral,19987334,True,False,2009-02-03T17:35:37.000Z,Golden Corral® is committed to making pleasurable dining affordable for each & every guest. #TheOnlyOneForEveryone For career opportunities: @goldencorraljob,False,0,1,1,0,1
+eatatjacks,2360,4895,5441,31,Jack's,71357861,True,False,2009-09-03T21:00:02.000Z,Southern fried tweets—just like you like ‘em. #AllAboutTheSouth,False,0,1,1,0,0
+McAlistersDeli,24977,103162,43280,374,McAlister's Deli,22970145,True,False,2009-03-05T20:08:41.000Z,Great food brings us together. 📸: Share your #McAlisters moments with us!,False,0,1,1,0,0
+rubytuesday,0,15740,22307,213,Ruby Tuesday,44528896,True,False,2009-06-04T02:54:16.000Z,"BIG, BETTER, BOLDER, baby! We’re celebrating 50 years in a BIG way! Check it out https://t.co/mgkusYo1QH! 🥳
 
 #NowThatsABigDeal",True,1,1,1,0,0
-54,2668,10525,15660,368,BobEvansFarms,Bob Evans Restaurants 🍳,21204583,True,False,2009-02-18T15:17:00.000Z,Home of America’s Farm Fresh,False,0,0,1,0,0
-55,2472,7616,8286,197,CHWinery,Cooper's Hawk Winery,201814958,False,False,2010-10-12T17:45:28.000Z,Introducing PNW (it stands for Pacific Northwest!) — an iconic red blend from Washington's Columbia Valley 🌲🍷,False,0,0,1,0,0
-56,264,22506,15880,460,jasonsdeli,Jason's Deli,15371350,False,False,2008-07-09T22:44:43.000Z,"Family owned & loved. Our food contains no artificial trans fats, MSG, artificial colors or high-fructose corn syrup.",False,0,0,1,0,0
-57,0,9197,33465,426,longjohnsilvers,Long John Silver's,52473445,True,False,2009-06-30T18:23:18.000Z,"The original fishmonger. Not a financial advisor.
+BobEvansFarms,2668,10525,15662,368,Bob Evans Restaurants 🍳,21204583,True,False,2009-02-18T15:17:00.000Z,Home of America’s Farm Fresh,False,0,0,1,0,0
+CHWinery,2472,7618,8286,197,Cooper's Hawk Winery,201814958,False,False,2010-10-12T17:45:28.000Z,Introducing PNW (it stands for Pacific Northwest!) — an iconic red blend from Washington's Columbia Valley 🌲🍷,False,0,0,1,0,0
+jasonsdeli,264,22507,15879,460,Jason's Deli,15371350,False,False,2008-07-09T22:44:43.000Z,"Family owned & loved. Our food contains no artificial trans fats, MSG, artificial colors or high-fructose corn syrup.",False,0,0,1,0,0
+longjohnsilvers,0,9197,33462,426,Long John Silver's,52473445,True,False,2009-06-30T18:23:18.000Z,"The original fishmonger. Not a financial advisor.
 
 https://t.co/nfnTyqKUgQ…",True,1,0,1,0,0
-58,7251,72332,209864,887,TGIFridays,TGI Fridays,158122818,True,False,2010-06-21T21:10:28.000Z,"Official TGI Fridays Twitter Handle. IN HERE, IT’S ALWAYS FRIDAY.®",True,0,0,1,0,0
-59,90,44999,28029,471,Potbelly,potbelly,17044562,True,False,2008-10-29T16:19:49.000Z,we make a mean toasted sandwich. try A Wreck® with hot peppers to say you've done it. order at https://t.co/pJA2NYLvkC,False,1,0,1,0,0
-60,36,137755,263442,577,wingstop,Wingstop 🍗,89858807,True,False,2009-11-14T03:20:28.000Z,Wings (Thighs). Fries. Sides. Repeat. New Orange Szechuan flavor now available 🙌,True,0,0,1,0,0
-61,48987,89478,78245,789,JambaJuice,Jamba,29599598,True,False,2009-04-08T01:12:35.000Z,"Freshly blended fruit and vegetable smoothies, juices, bowls and more. No artificial flavors or preservatives. #Jamba",False,0,1,1,0,0
-62,1464,15794,5461,31,cheddarskitchen,Cheddar's,710862575844478976,True,False,2016-03-18T16:17:00.000Z,Get a lot. For not a lot. Official sponsor of the No. 8 Tyler Reddick and No. 10 Jeb Burton cars. 🏁,False,0,0,1,0,0
-63,3748,5959,28971,351,CapitalGrille,The Capital Grille,589233680,True,False,2012-05-24T16:12:59.000Z,"We invite you to join us and enjoy nationally acclaimed dry aged steaks, fresh daily seafood, and an award-winning collection of more than 350 wines. (21+)",False,0,0,1,0,0
-64,89,6975,11288,93,EatAtPerkins,Perkins® Restaurants,143069264,False,False,2010-05-12T14:09:46.000Z,Breakfast. It's just the beginning.,True,0,0,1,0,0
-65,684,10894,12391,130,MillersAleHouse,Mountain Melt,24736031,True,False,2009-03-16T17:57:49.000Z,Mountain Melts only. Show us yours. #mountainmelttakeover,False,0,1,1,0,0
-66,239,18712,8900,75,JetsPizza,Jet's Pizza,37031807,True,False,2009-05-01T20:23:09.000Z,"Better, Because it Has to Be® 🍕",False,0,0,1,0,0
-67,29,17521,21731,422,ZoesKitchen,Zoës Kitchen,43132502,True,False,2009-05-28T15:38:34.000Z,Fast-casual Mediterranean restaurant with made-from-scratch recipes made fresh daily.,False,0,0,1,0,0
-68,557,20969,58741,1147,peetscoffee,Peet's Coffee,16650816,True,False,2008-10-08T16:04:04.000Z,"The Original Craft Coffee.™ Since 1966. ☕️
+TGIFridays,7251,72339,209869,888,TGI Fridays,158122818,True,False,2010-06-21T21:10:28.000Z,"Official TGI Fridays Twitter Handle. IN HERE, IT’S ALWAYS FRIDAY.®",True,0,0,1,0,0
+Potbelly,90,44999,28030,471,potbelly,17044562,True,False,2008-10-29T16:19:49.000Z,we make a mean toasted sandwich. try A Wreck® with hot peppers to say you've done it. order at https://t.co/pJA2NYLvkC,False,1,0,1,0,0
+wingstop,36,137777,263466,577,Wingstop 🍗,89858807,True,False,2009-11-14T03:20:28.000Z,Wings (Thighs). Fries. Sides. Repeat. New Orange Szechuan flavor now available 🙌,True,0,0,1,0,0
+JambaJuice,48978,89488,78242,788,Jamba,29599598,True,False,2009-04-08T01:12:35.000Z,"Freshly blended fruit and vegetable smoothies, juices, bowls and more. No artificial flavors or preservatives. #Jamba",False,0,1,1,0,0
+cheddarskitchen,1464,15801,5485,31,Cheddar's,710862575844478976,True,False,2016-03-18T16:17:00.000Z,Get a lot. For not a lot. Official sponsor of the No. 8 Tyler Reddick and No. 10 Jeb Burton cars. 🏁,False,0,0,1,0,0
+CapitalGrille,3748,5958,28975,351,The Capital Grille,589233680,True,False,2012-05-24T16:12:59.000Z,"We invite you to join us and enjoy nationally acclaimed dry aged steaks, fresh daily seafood, and an award-winning collection of more than 350 wines. (21+)",False,0,0,1,0,0
+EatAtPerkins,89,6976,11287,93,Perkins® Restaurants,143069264,False,False,2010-05-12T14:09:46.000Z,Breakfast. It's just the beginning.,True,0,0,1,0,0
+MillersAleHouse,684,10897,12392,130,Mountain Melt,24736031,True,False,2009-03-16T17:57:49.000Z,Mountain Melts only. Show us yours. #mountainmelttakeover,False,0,1,1,0,0
+JetsPizza,239,18713,8900,75,Jet's Pizza,37031807,True,False,2009-05-01T20:23:09.000Z,"Better, Because it Has to Be® 🍕",False,0,0,1,0,0
+ZoesKitchen,29,17521,21729,422,Zoës Kitchen,43132502,True,False,2009-05-28T15:38:34.000Z,Fast-casual Mediterranean restaurant with made-from-scratch recipes made fresh daily.,False,0,0,1,0,0
+peetscoffee,557,20969,58744,1148,Peet's Coffee,16650816,True,False,2008-10-08T16:04:04.000Z,"The Original Craft Coffee.™ Since 1966. ☕️
 Keep up with the latest: https://t.co/xFbGajAhF4",True,1,0,1,0,0
-69,16078,231420,73864,361,BlazePizza,Blaze Pizza,459544233,True,False,2012-01-09T19:54:57.000Z,Fresh dough. Artisanal ingredients. Inventive to classic. You decide. Blazing oven + dedicated pizzasmith + 180 seconds = fast-fire’d perfection.,False,0,0,1,0,0
-70,1400,17724,27985,452,bostonmarket,Boston Market,38191248,True,False,2009-05-06T14:42:53.000Z,"The Original Rotisserie AND Holiday Experts, since 1985. Check out this season’s offerings and place your holiday order today!",False,0,0,1,0,0
-71,2602,10786,7402,87,OCharleys,O'Charley's Restaurant + Bar,377364497,True,False,2011-09-21T13:20:07.000Z,"We’re open for Dine-in, To-Go, Curbside and Free Delivery!",False,0,0,1,0,0
-72,4811,86609,89326,407,jerseymikes,Jersey Mike's Subs,189252968,True,False,2010-09-10T19:45:44.000Z,"Hungry? We wanna feed you the best sub on the planet, Mike's Way.",False,0,0,1,0,0
-73,6566,15069,76849,1016,bjsrestaurants,BJ's Restaurant & Brewhouse,33554073,True,False,2009-04-20T15:41:58.000Z,Craft Matters.,False,0,0,1,0,0
-74,6545,20897,83934,271,Bojangles,Bojangles,15855468,True,False,2008-08-14T20:36:08.000Z,YOUR Official Tailgate HQ,False,0,0,1,0,0
-75,2694,96748,659617,1168,TimHortons,Tim Hortons,382177545,True,False,2011-09-29T16:27:51.000Z,"Co-creators of Timbiebs with our number one guy, Justin Bieber.",False,0,0,1,0,0
-76,0,17952,456099,1759,DennysDiner,Denny’s,23112346,True,False,2009-03-06T20:16:35.000Z,Why be there when you could be here? See you at Denny's.,True,0,0,1,0,0
-77,25493,415864,403701,1924,Chilis,Chili's Grill & Bar,65051962,True,False,2009-08-12T14:37:05.000Z,"Hi, welcome to Chili's. // Guest Service: @ChilisSupport",False,0,0,1,0,1
-78,9372,48793,318327,1280,Outback,Outback Steakhouse,20722851,True,False,2009-02-12T21:49:37.000Z,"The home of juicy, tender steaks, spirited drinks and Aussie hospitality.",False,0,0,1,0,0
-79,48282,128873,89145,539,Moes_HQ,Moe's Southwest Grill,84075278,True,False,2009-10-21T13:00:28.000Z,🗣 WELCOME TO MOE'S,False,0,0,1,0,0
-80,18746,61746,55728,666,FirehouseSubs,Firehouse Subs,22837424,True,False,2009-03-04T21:28:20.000Z,Founded by Firemen. A portion of every purchase helps provide lifesaving equipment for first responders.,False,0,0,1,0,0
-81,77,14835,195498,491,DutchBros,Dutch Bros Coffee,20708861,True,False,2009-02-12T19:35:23.000Z,Bringing the magic with #HolidaysWithDutch! Tag us for a chance to be reposted 🎁,True,0,1,1,0,0
-82,2570,11103,12672,176,RoundTablePizza,Round Table Pizza,23990896,True,False,2009-03-12T17:44:50.000Z,"It is I, the Round Table Pizza Knight – lover of pizza, chicken wings, long horse rides, and battles for glory.  ⚔️🍕",True,0,0,1,0,0
-83,63,43053,7158,121,pollotropical,pollotropical,35841181,True,False,2009-04-27T19:56:10.000Z,Join the #PolloNation! Or come and join our team at https://t.co/mFa7ogyG8e,False,1,1,1,0,0
-84,10980,57089,41491,829,YardHouse,Yard House,24751751,True,False,2009-03-16T19:31:48.000Z,Where beer and food lovers unite! 🍻,False,0,0,1,0,0
-85,8894,15124,18603,397,MellowMushroom,Mel O. Mushroom,26655503,True,False,2009-03-26T01:35:57.000Z,A higher order of pizza.  Est. ATL 1974,False,0,0,1,0,0
-86,28863,18647,105652,442,texasroadhouse,Texas Roadhouse,17488246,True,False,2008-11-19T15:46:43.000Z,"Made-From-Scratch Food, Made-From-Scratch Tweets. socialmedia@texasroadhouse.com",False,0,0,1,0,0
-87,17970,182298,414810,1242,olivegarden,Olive Garden,6018802,True,False,2007-05-14T00:22:20.000Z,We're all family here. Join us for dine-in or order To Go Delivered Carside.,False,0,0,1,0,0
-88,309,12707,117099,518,CrackerBarrel,Cracker Barrel,301112153,True,False,2011-05-18T22:15:26.000Z,Our Mission of Pleasing People guides everything we do. Here’s how we are keeping you safe in response to COVID-19: https://t.co/z9M5RMcKgY,False,1,0,1,0,0
-89,5317,78566,644649,2646,PapaJohns,Papa Johns Pizza,18450106,True,False,2008-12-29T14:22:23.000Z,"Official Twitter account for Papa Johns International, Inc. Better Ingredients. Better Pizza. Better Tweets. For quick customer service tweet @AskPapaJohns",True,0,0,1,0,1
-90,2223,10566,9534,187,habitburger,The Habit Burger Grill 🍔,172549344,True,False,2010-07-30T00:15:29.000Z,Founded in Santa Barbara in 1969. 🍔 Customer Service Hours: 8 am PST - 5 pm PST Monday through Friday. Now hiring! Text HABIT to 949-516-0607 to get started.,True,0,0,1,0,0
-91,1264,38311,101380,272,Zaxbys,Zaxby’s,365456712,True,False,2011-08-31T13:37:07.000Z,zaxby's stan account,True,0,0,1,0,0
-92,490,82963,648543,1323,BWWings,Buffalo Wild Wings,314662792,True,False,2011-06-10T16:21:09.000Z,"Home of the Greatest of All Times.
+BlazePizza,16092,231761,73908,361,Blaze Pizza,459544233,True,False,2012-01-09T19:54:57.000Z,Fresh dough. Artisanal ingredients. Inventive to classic. You decide. Blazing oven + dedicated pizzasmith + 180 seconds = fast-fire’d perfection.,False,0,0,1,0,0
+bostonmarket,1399,17725,28019,451,Boston Market,38191248,True,False,2009-05-06T14:42:53.000Z,"The Original Rotisserie AND Holiday Experts, since 1985. Check out this season’s offerings and place your holiday order today!",False,0,0,1,0,0
+OCharleys,2602,10786,7402,87,O'Charley's Restaurant + Bar,377364497,True,False,2011-09-21T13:20:07.000Z,"We’re open for Dine-in, To-Go, Curbside and Free Delivery!",False,0,0,1,0,0
+jerseymikes,4810,86610,89326,407,Jersey Mike's Subs,189252968,True,False,2010-09-10T19:45:44.000Z,"Hungry? We wanna feed you the best sub on the planet, Mike's Way.",False,0,0,1,0,0
+bjsrestaurants,6566,15071,76849,1016,BJ's Restaurant & Brewhouse,33554073,True,False,2009-04-20T15:41:58.000Z,Craft Matters.,False,0,0,1,0,0
+Bojangles,6544,20897,83937,271,Bojangles,15855468,True,False,2008-08-14T20:36:08.000Z,YOUR Official Tailgate HQ,False,0,0,1,0,0
+TimHortons,2695,96762,659650,1168,Tim Hortons,382177545,True,False,2011-09-29T16:27:51.000Z,"Co-creators of Timbiebs with our number one guy, Justin Bieber.",False,0,0,1,0,0
+DennysDiner,0,17952,456066,1760,Denny’s,23112346,True,False,2009-03-06T20:16:35.000Z,Why be there when you could be here? See you at Denny's.,True,0,0,1,0,0
+Chilis,25492,415869,403736,1924,Chili's Grill & Bar,65051962,True,False,2009-08-12T14:37:05.000Z,"Hi, welcome to Chili's. // Guest Service: @ChilisSupport",False,0,0,1,0,1
+Outback,9373,48795,318329,1281,Outback Steakhouse,20722851,True,False,2009-02-12T21:49:37.000Z,"The home of juicy, tender steaks, spirited drinks and Aussie hospitality.",False,0,0,1,0,0
+Moes_HQ,48283,128879,89143,539,Moe's Southwest Grill,84075278,True,False,2009-10-21T13:00:28.000Z,🗣 WELCOME TO MOE'S,False,0,0,1,0,0
+FirehouseSubs,18745,61750,55731,666,Firehouse Subs,22837424,True,False,2009-03-04T21:28:20.000Z,Founded by Firemen. A portion of every purchase helps provide lifesaving equipment for first responders.,False,0,0,1,0,0
+DutchBros,77,14847,195505,491,Dutch Bros Coffee,20708861,True,False,2009-02-12T19:35:23.000Z,Bringing the magic with #HolidaysWithDutch! Tag us for a chance to be reposted 🎁,True,0,1,1,0,0
+RoundTablePizza,2570,11103,12673,176,Round Table Pizza,23990896,True,False,2009-03-12T17:44:50.000Z,"It is I, the Round Table Pizza Knight – lover of pizza, chicken wings, long horse rides, and battles for glory.  ⚔️🍕",True,0,0,1,0,0
+pollotropical,63,43059,7161,121,pollotropical,35841181,True,False,2009-04-27T19:56:10.000Z,Join the #PolloNation! Or come and join our team at https://t.co/mFa7ogyG8e,False,1,1,1,0,0
+YardHouse,10979,57092,41493,829,Yard House,24751751,True,False,2009-03-16T19:31:48.000Z,Where beer and food lovers unite! 🍻,False,0,0,1,0,0
+MellowMushroom,8894,15124,18602,397,Mel O. Mushroom,26655503,True,False,2009-03-26T01:35:57.000Z,A higher order of pizza.  Est. ATL 1974,False,0,0,1,0,0
+texasroadhouse,28863,18647,105650,443,Texas Roadhouse,17488246,True,False,2008-11-19T15:46:43.000Z,"Made-From-Scratch Food, Made-From-Scratch Tweets. socialmedia@texasroadhouse.com",False,0,0,1,0,0
+olivegarden,17970,182322,414818,1243,Olive Garden,6018802,True,False,2007-05-14T00:22:20.000Z,We're all family here. Join us for dine-in or order To Go Delivered Carside.,False,0,0,1,0,0
+CrackerBarrel,309,12709,117090,518,Cracker Barrel,301112153,True,False,2011-05-18T22:15:26.000Z,Our Mission of Pleasing People guides everything we do. Here’s how we are keeping you safe in response to COVID-19: https://t.co/z9M5RMcKgY,False,1,0,1,0,0
+PapaJohns,5313,78578,644649,2646,Papa Johns Pizza,18450106,True,False,2008-12-29T14:22:23.000Z,"Official Twitter account for Papa Johns International, Inc. Better Ingredients. Better Pizza. Better Tweets. For quick customer service tweet @AskPapaJohns",True,0,0,1,0,1
+habitburger,2226,10572,9533,187,The Habit Burger Grill 🍔,172549344,True,False,2010-07-30T00:15:29.000Z,Founded in Santa Barbara in 1969. 🍔 Customer Service Hours: 8 am PST - 5 pm PST Monday through Friday. Now hiring! Text HABIT to 949-516-0607 to get started.,True,0,0,1,0,0
+Zaxbys,1263,38317,101391,272,Zaxby’s,365456712,True,False,2011-08-31T13:37:07.000Z,zaxby's stan account,True,0,0,1,0,0
+BWWings,490,82969,648549,1323,Buffalo Wild Wings,314662792,True,False,2011-06-10T16:21:09.000Z,"Home of the Greatest of All Times.
 
 Issues with service, orders or app?  Tweet or DM us @BWWingsCares.",False,0,0,1,0,1
-93,3181,14613,18051,236,MarcosPizza,Marco's Pizza,50721156,True,False,2009-06-25T18:14:51.000Z,Keepin' it fresh and pizza obsessed. Pizza Lovers Get It.,True,0,0,1,0,0
-94,13543,778296,4394658,9075,McDonalds,McDonald's,71026122,True,False,2009-09-02T17:46:43.000Z,"the Mc is for @MariahCarey now 
+MarcosPizza,3181,14615,18053,236,Marco's Pizza,50721156,True,False,2009-06-25T18:14:51.000Z,Keepin' it fresh and pizza obsessed. Pizza Lovers Get It.,True,0,0,1,0,0
+McDonalds,13543,778486,4394875,9073,McDonald's,71026122,True,False,2009-09-02T17:46:43.000Z,"the Mc is for @MariahCarey now 
 
 introducing the Mariah Menu: get free daily deals (w/ a $1 min purchase) dec. 13–24, only in the app",True,0,0,0,0,1
-95,59,23028,107174,1185,CarlsJr,Carl’s Jr.,16103650,True,False,2008-09-02T21:46:59.000Z,Hodling Western Bacon Cheeseburgers since the 80s,False,0,0,0,0,0
+Wendys,444,210197,3838627,5071,Wendy’s,59553554,True,False,2009-07-23T18:54:01.000Z,"We like our tweets the way we like our fries: hot, crispy, and better than anyone expects from a fast food restaurant.",False,0,0,1,0,0
+tacobell,94,796010,1967909,4802,Taco Bell,7831092,True,False,2007-07-30T21:52:37.000Z,"Live Más
+Need support? We’re here for you. @tacobellcare",False,0,0,1,0,1
+BurgerKing,3859,49257,1972262,3691,Burger King,167421802,True,False,2010-07-16T15:08:05.000Z,Burger King U.S. Official Account,False,0,0,1,0,0
+Arbys,67945,47109,845248,2243,Arby's,155544257,True,False,2010-06-14T12:37:06.000Z,We Have The Tweets❗️ We’re here to help: @ArbysCares,False,0,0,1,0,1
+Popeyes,5309,65543,251645,1263,Popeyes,14757934,True,False,2008-05-13T12:25:25.000Z,Served with 🧡 since 1972!,False,0,0,1,0,0
+SUBWAY,29901,108817,2294317,5267,Subway®,20632796,True,False,2009-02-11T21:59:01.000Z,"Serving up the freshly-made subs you love. 
+For concerns: @SubwayListens",False,0,0,1,0,1
+dominos,533,455441,1402671,3819,Domino's Pizza,31444922,True,False,2009-04-15T16:18:59.000Z,,False,0,0,1,0,0
+ChickfilA,7240,203545,1141125,3987,"Chick-fil-A, Inc.",16043308,True,False,2008-08-29T15:28:33.000Z,Turn the unexpected into something wonderful this holiday.,True,0,0,1,0,0
+sonicdrivein,4401,81236,386195,1589,Sonic Drive-In,40349928,True,False,2009-05-15T22:28:50.000Z,This is how we SONIC.,True,0,0,1,0,0
+kfc,11,48197,1565186,3601,KFC,15392391,True,False,2008-07-11T15:16:14.000Z,Kentucky Fried Chicken. Founded by The Colonel. Practitioners of The Hard Way. Purveyors of the World's Best Chicken. Customer support: @TelltheColonel,False,0,0,1,0,1
+Quiznos,4187,45562,122294,869,Quiznos,17791762,True,False,2008-12-01T22:44:38.000Z,‘Tis the season for gathering with friends and family! Place your catering order today.,False,0,0,1,0,0
+panerabread,11355,96393,445889,2818,Panera Bread,63586621,True,False,2009-08-07T00:32:48.000Z,Biiiiiig bread people 🥖,False,0,0,1,0,0
+ChipotleTweets,16,942230,1075070,3658,Chipotle,141341662,True,False,2010-05-07T20:50:36.000Z,Cultivate a better world.,False,0,0,1,0,0
+littlecaesars,917,81318,350729,890,Little Caesars Pizza,57824414,True,False,2009-07-18T02:07:00.000Z,"We’re Not Big Pizza, We’re Little Caesars",False,0,0,1,0,0
+PandaExpress,2022,52789,61881,478,Panda Express,24192548,True,False,2009-03-13T15:47:43.000Z,"Get $0 Delivery Fee* - Taxes, service fee & additional fees still apply. Min/Max purchase is $10/$100. Ends 12-22-2021. Other restrictions may apply.",False,0,0,1,0,0
+JackBox,10082,41950,121618,1253,Jack in the Box,18956020,True,False,2009-01-13T22:14:31.000Z,Welcome to the Box. BYOT (Bring Your Own Tacos),False,0,0,1,0,0
+Starbucks,90761,252857,10971992,25717,Starbucks Coffee,30973,True,False,2006-11-29T19:19:02.000Z,"To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time.",False,0,0,1,0,0
+ShakeysUSA,1179,22330,5663,90,Shakey's Pizza,50057071,False,False,2009-06-23T18:28:54.000Z,"For generations Shakey’s has been the neighborhood gathering place, where family and friends come together to share great food and good times.",False,0,0,1,0,0
+wienerschnitzel,2105,11602,18712,244,Wienerschnitzel,19637960,True,False,2009-01-28T05:29:38.000Z,"tweets from the world's largest hot dog chain 🌭
+find a location ⤵️",False,0,0,1,0,0
+JohnnyRockets,16609,23839,21524,397,Johnny Rockets,21322177,True,False,2009-02-19T18:04:10.000Z,"Home to Burgers, Shakes, Fries & Fun! Enjoy burgers made with 100% fresh, never frozen certified Angus beef & real ice cream milkshakes. #JohnnyRockets",False,0,1,1,0,0
+BajaFresh,37829,22855,49098,463,Baja Fresh,50002300,False,False,2009-06-23T15:14:59.000Z,The official Twitter account for Baja Fresh® Mexican Grill! Eat Well. Live Fresh. Follow us on Facebook too: https://t.co/SpMKxdeH0y,False,1,0,1,0,0
+BurgervilleUSA,5308,12679,11684,509,Burgerville,18081597,True,False,2008-12-12T18:05:02.000Z,"Community Built since 1961. Burgers, fries and shakes in 40 locations in Oregon + Washington.",False,0,0,1,0,0
+Cinnabon,140564,303535,166219,974,Cinnabon,84708371,True,False,2009-10-23T22:42:05.000Z,"The world's most famous cinnamon roll.
+TikTok: @cinnabon",True,0,0,1,0,1
+PitaPitUSA,1780,16599,6570,133,Pita Pit,98936989,True,False,2009-12-23T18:45:28.000Z,"Official Twitter for Pita Pit USA – Fresh-grilled, flavor-filled. #PitaPitUSA",False,0,1,1,0,0
+umamiburger,938,12683,16577,822,Umami Burger,25601292,True,False,2009-03-20T23:44:39.000Z,25 locations worldwide #UrYummy,False,0,1,1,0,0
+kogibbq,2023,32599,148500,4605,kogibbq,17207019,True,False,2008-11-06T06:35:39.000Z,Help us #KeepKogiAlive DONATE Venmo @kogibbq to feed those in need,True,0,1,1,0,1
+GrillEmAll,316,18120,30640,1617,Grill Em All,90081495,False,False,2009-11-15T03:06:08.000Z,"Serving Killer Burgs, Beers & Beyond in the heart of Alhambra 🍔 INSIDE and PATIO OPEN and Take Out & Delivery too 🤘🏽Temporary Hours: 11am-9pm Everyday",False,0,0,1,0,0
+MOOYAHBurgers,307,11582,17419,277,"MOOYAH Burgers, Fries & Shakes",28803740,False,False,2009-04-04T14:41:48.000Z,"Our tweets may be ridiculous but our food is ridiculicious.
+
+Download our app: https://t.co/sCIlhlC3nQ",False,1,0,1,0,0
+Zippys,3286,16392,14359,463,Zippy's Restaurants,16225679,False,False,2008-09-10T19:08:40.000Z,#Hawaii’s Restaurant of Choice. #zippys #nextstopzippys https://t.co/0QSxl6RoEy,False,1,3,1,0,0
+awrestaurants,581,18007,54732,335,A&W Restaurants,23851804,True,False,2009-03-11T23:24:11.000Z,"Yes, we’re still a thing.",True,0,0,1,0,0
+CarlsJr,59,23028,107190,1186,Carl’s Jr.,16103650,True,False,2008-09-02T21:46:59.000Z,Hodling Western Bacon Cheeseburgers since the 80s,False,0,0,0,0,0
